@@ -8,7 +8,6 @@ int main()
 	printf("Enter a word:");
 	scanf("%s",&ch);
 	len=strlen(ch);
-	//printf("%d",len);
 	j=len-1;
 	for(i=0;i<len;i++)
 	{
