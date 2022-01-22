@@ -1,4 +1,4 @@
-//palindrom string with c programming
+//palindrom string
 #include<stdio.h>
 #include<string.h>
 int main()
